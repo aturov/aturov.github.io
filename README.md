@@ -1,2 +1,1 @@
-# aturov.github.io
-web-cv
+https://aturov.github.io/aturov.github.io/
